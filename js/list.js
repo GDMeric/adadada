@@ -41,6 +41,26 @@ const d = {
                        "key": 2
                 },
 		/*=================================================================================*/
+		{
+                       "vids": [
+			       {
+				       "user": "Pablohh",
+				       "link": "https://www.youtube.com/watch?v=X6LHOd-sZ2o",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+		       ],
+                       "name": "Plasma Pulse Finale",
+                       "author": "PoweredByGarfield",
+                       "more": "none",
+                       "id": 38655495,
+                       "pass": "356987",
+                       "percentToQualify": 48,
+                       "verificationVid": "https://www.youtube.com/watch?v=tnHZhGruapo",
+                       "key": 3
+                },
+		/*=================================================================================*/
+
 
 	],
 	"version": [

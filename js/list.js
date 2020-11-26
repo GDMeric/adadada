@@ -86,6 +86,43 @@ const d = {
                        "key": 5
                 },
 		/*=================================================================================*/
+		{
+                       "vids": [
+			       {
+				       "user": "PoweredByGarfield",
+				       "link": "https://www.youtube.com/watch?v=wighH9nXkDo",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+			       {
+				       "user": "GMD xeox",
+				       "link": "https://www.youtube.com/watch?v=C3IDFC_kcXg",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+			       {
+				       "user": "Axinity",
+				       "link": "https://www.youtube.com/watch?v=o2VxJdTRrlI",
+				       "percent": 73,
+				       "hz": "144hz"
+			       },
+			       {
+				       "user": "S1l3n",
+				       "link": "https://www.youtube.com/watch?v=dqACgr-acUs",
+				       "percent": 51,
+				       "hz": "144hz"
+			       },
+		       ],
+                       "name": "Sonic Wave",
+                       "author": "Pablohh",
+                       "more": "none",
+                       "id": 26681070,
+                       "pass": "112516",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://www.youtube.com/watch?v=DV5sDSVZFRs",
+                       "key": 6
+                },
+		/*=================================================================================*/
 
 
 	],

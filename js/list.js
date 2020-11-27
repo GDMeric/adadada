@@ -306,6 +306,25 @@ const d = {
                        "key": 15
                 },
 		/*=================================================================================*/
+		{
+                       "vids": [
+			        {
+				       "user": "Pablohh",
+				       "link": "https://www.youtube.com/watch?v=u-BDOiqxaf4",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+		       ],
+                       "name": "Artificial Ascent",
+                       "author": "PoweredByGarfield",
+                       "more": "none",
+                       "id": 27122654,
+                       "pass": "852369",
+                       "percentToQualify": 53,
+                       "verificationVid": "https://www.youtube.com/watch?v=QlrbGSx3AGs",
+                       "key": 16
+                },
+		/*=================================================================================*/
 
 
 

@@ -149,6 +149,31 @@ const d = {
                        "key": 8
                 },
 		/*=================================================================================*/
+		{
+                       "vids": [
+			       {
+				       "user": "Zupreme",
+				       "link": "https://www.youtube.com/watch?v=fg1X4DEIyMQ",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
+			        {
+				       "user": "GDMeric",
+				       "link": "https://www.youtube.com/watch?v=xz3x_SdvcsY",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+		       ],
+                       "name": "Zaphkiel",
+                       "author": "Pablohh",
+                       "more": "none",
+                       "id": 36329434,
+                       "pass": "004250",
+                       "percentToQualify": 56,
+                       "verificationVid": "https://www.youtube.com/watch?v=Wb6Y3anhzhg",
+                       "key": 9
+                },
+		/*=================================================================================*/
 
 
 	],

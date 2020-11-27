@@ -174,6 +174,26 @@ const d = {
                        "key": 9
                 },
 		/*=================================================================================*/
+		{
+                       "vids": [
+			        {
+				       "user": "GMD xeox",
+				       "link": "https://www.youtube.com/watch?v=TaA9H3fjI7o",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+		       ],
+                       "name": "Digital Descent",
+                       "author": "Pablohh",
+                       "more": "none",
+                       "id": 37456092,
+                       "pass": "666000",
+                       "percentToQualify": 54,
+                       "verificationVid": "https://www.youtube.com/watch?v=3tdaiPpHKTU",
+                       "key": 10
+                },
+		/*=================================================================================*/
+
 
 
 	],

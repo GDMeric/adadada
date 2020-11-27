@@ -123,6 +123,19 @@ const d = {
                        "key": 6
                 },
 		/*=================================================================================*/
+		{
+                       "vids": [
+		       ],
+                       "name": "Yatagarasu",
+                       "author": "PoweredByGarfield",
+                       "more": "none",
+                       "id": 28220417,
+                       "pass": "Not Copyable",
+                       "percentToQualify": 51,
+                       "verificationVid": "https://www.youtube.com/watch?v=9UhST0BGS7Y",
+                       "key": 7
+                },
+		/*=================================================================================*/
 
 
 	],

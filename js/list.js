@@ -542,6 +542,19 @@ const d = {
                        "key": 29
                 },
 		/*=================================================================================*/
+		{
+                       "vids": [
+		       ],
+                       "name": "Betrayal of Fate",
+                       "author": "Pablohh",
+                       "more": "none",
+                       "id": 20329544,
+                       "pass": "Not Copyable",
+                       "percentToQualify": 100,
+                       "verificationVid": "https://www.youtube.com/watch?v=fH5ljgH_nz0",
+                       "key": 30
+                },
+		/*=================================================================================*/
 
 
 

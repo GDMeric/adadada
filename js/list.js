@@ -383,6 +383,19 @@ const d = {
                        "key": 20
                 },
 		/*=================================================================================*/
+		{
+                       "vids": [
+		       ],
+                       "name": "SubSonic",
+                       "author": "PoweredByGarfield",
+                       "more": "none",
+                       "id": 33387622,
+                       "pass": "Free To Copy",
+                       "percentToQualify": 100,
+                       "verificationVid": "https://www.youtube.com/watch?v=lSdlkKeiGqA",
+                       "key": 21
+                },
+		/*=================================================================================*/
 
 
 

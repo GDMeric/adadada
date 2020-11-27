@@ -447,6 +447,25 @@ const d = {
                        "key": 24
                 },
 		/*=================================================================================*/
+		{
+                       "vids": [
+			       {
+				       "user": "Zephlix GD",
+				       "link": "https://www.youtube.com/watch?v=2CfWhag6r0s",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+		       ],
+                       "name": "Mystic",
+                       "author": "Pablohh",
+                       "more": "none",
+                       "id": 35738539,
+                       "pass": "769874",
+                       "percentToQualify": 100,
+                       "verificationVid": "https://www.youtube.com/watch?v=Ey5-S7w9j7U",
+                       "key": 25
+                },
+		/*=================================================================================*/
 
 
 

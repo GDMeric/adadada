@@ -206,6 +206,25 @@ const d = {
                        "key": 11
                 },
 		/*=================================================================================*/
+		{
+                       "vids": [
+			       {
+				       "user": "Axinity",
+				       "link": "https://www.youtube.com/watch?v=E8vRWiPJdcQ",
+				       "percent": 67,
+				       "hz": "144hz"
+			       },
+		       ],
+                       "name": "Stalemate Redux",
+                       "author": "Pablohh",
+                       "more": "none",
+                       "id": 37398911,
+                       "pass": "115911",
+                       "percentToQualify": 44,
+                       "verificationVid": "https://www.youtube.com/watch?v=E_MU6TQtEXs",
+                       "key": 12
+                },
+		/*=================================================================================*/
 
 
 

@@ -338,6 +338,25 @@ const d = {
                        "key": 17
                 },
 		/*=================================================================================*/
+		{
+                       "vids": [
+			       {
+				       "user": "GMD xeox",
+				       "link": "https://www.youtube.com/watch?v=01hs3lky5fA",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+		       ],
+                       "name": "Black Blizzard",
+                       "author": "Pablohh",
+                       "more": "none",
+                       "id": 34057654,
+                       "pass": "000006",
+                       "percentToQualify": 100,
+                       "verificationVid": "https://www.youtube.com/watch?v=aLDLsjts8TU",
+                       "key": 18
+                },
+		/*=================================================================================*/
 
 
 

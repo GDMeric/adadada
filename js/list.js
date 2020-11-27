@@ -357,6 +357,19 @@ const d = {
                        "key": 18
                 },
 		/*=================================================================================*/
+		{
+                       "vids": [
+		       ],
+                       "name": "Hatred",
+                       "author": "Pablohh",
+                       "more": "none",
+                       "id": 27580467,
+                       "pass": "Not Copyable",
+                       "percentToQualify": 100,
+                       "verificationVid": "https://www.youtube.com/watch?v=fJUVFAKDtWc",
+                       "key": 19
+                },
+		/*=================================================================================*/
 
 
 

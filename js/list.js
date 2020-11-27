@@ -485,6 +485,25 @@ const d = {
                        "key": 26
                 },
 		/*=================================================================================*/
+		{
+                       "vids": [
+			       {
+				       "user": "GDMeric",
+				       "link": "https://www.youtube.com/watch?v=AKzjnB92vls",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+		       ],
+                       "name": "Sakupen Hell",
+                       "author": "S1l3n",
+                       "more": "none",
+                       "id": 23262780,
+                       "pass": "895562",
+                       "percentToQualify": 100,
+                       "verificationVid": "https://www.youtube.com/watch?v=JUrhT5Z4rIg",
+                       "key": 27
+                },
+		/*=================================================================================*/
 
 
 

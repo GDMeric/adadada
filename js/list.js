@@ -396,6 +396,31 @@ const d = {
                        "key": 21
                 },
 		/*=================================================================================*/
+		{
+                       "vids": [
+			        {
+				       "user": "Zupreme",
+				       "link": "https://www.youtube.com/watch?v=T6kzAg-DKm8",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
+			        {
+				       "user": "GDMeric",
+				       "link": "https://www.youtube.com/watch?v=xeGdDLmMgVw",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+		       ],
+                       "name": "Infernal Abyss",
+                       "author": "Pablohh",
+                       "more": "none",
+                       "id": 27379546,
+                       "pass": "Free To Copy",
+                       "percentToQualify": 100,
+                       "verificationVid": "https://www.youtube.com/watch?v=18LKtXgqTXQ",
+                       "key": 22
+                },
+		/*=================================================================================*/
 
 
 

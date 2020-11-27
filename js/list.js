@@ -263,6 +263,49 @@ const d = {
                        "key": 14
                 },
 		/*=================================================================================*/
+		{
+                       "vids": [
+			        {
+				       "user": "GMD xeox",
+				       "link": "https://www.youtube.com/watch?v=0AH8alkv3W4",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+			        {
+				       "user": "PoweredByGarfield",
+				       "link": "https://www.youtube.com/watch?v=CVRUeVGRayY",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+			       {
+				       "user": "Axinity",
+				       "link": "https://www.youtube.com/watch?v=PE6QwYC0_U8",
+				       "percent": 75,
+				       "hz": "144hz"
+			       },
+			       {
+				       "user": "S1l3n",
+				       "link": "https://www.youtube.com/watch?v=vtUjwro-W5k",
+				       "percent": 75,
+				       "hz": "144hz"
+			       },
+			        {
+				       "user": "GDMeric",
+				       "link": "https://www.youtube.com/watch?v=FSfFl8kWB8c&lc=Ugz-YLV2wkqnd1_YhqF4AaABAg",
+				       "percent": 72,
+				       "hz": "144hz"
+			       },
+		       ],
+                       "name": "Auditory Breaker",
+                       "author": "Pablohh",
+                       "more": "none",
+                       "id": 51791710,
+                       "pass": "Free To Copy",
+                       "percentToQualify": 56,
+                       "verificationVid": "https://www.youtube.com/watch?v=_dUUsc2Ki7k",
+                       "key": 15
+                },
+		/*=================================================================================*/
 
 
 

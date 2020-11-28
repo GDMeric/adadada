@@ -11,7 +11,7 @@ const d = {
                        "id": 52919433,
                        "pass": "Free To Copy",
                        "percentToQualify": 50,
-                       "verificationVid": "https://www.youtube.com/watch?v=jqEnURVgKCA&feature=youtu.be",
+                       "verificationVid": "https://www.youtube.com/watch?v=jqEnURVgKCA",
                        "key": 0
                 },
 		/*=================================================================================*/

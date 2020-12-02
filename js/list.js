@@ -17,6 +17,12 @@ const d = {
 		/*=================================================================================*/
 		{
                        "vids": [
+                               {
+				       "user": "Axinity",
+				       "link": "https://youtu.be/DGXWoq_-L-A",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 		       ],
                        "name": "Kowareta",
                        "author": "Pablohh",

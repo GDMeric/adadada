@@ -4,6 +4,18 @@ const d = {
 		/*=================================================================================*/
 		{
                        "vids": [
+			        {
+				       "user": "Axinity",
+				       "link": "https://www.youtube.com/watch?v=CCfR8uXtDxU",
+				       "percent": 96,
+				       "hz": "144hz"
+			       },
+			         {
+				       "user": "GDMeric",
+				       "link": "https://www.youtube.com/watch?v=iFu5NK5vmWk",
+				       "percent": 56,
+				       "hz": "144hz/300fps"
+			       },
 		       ],
                        "name": "Cognition",
                        "author": "Zupreme",
@@ -17,6 +29,12 @@ const d = {
 		/*=================================================================================*/
 		{
                        "vids": [
+			        {
+				       "user": "PoweredByGarfield",
+				       "link": "",
+				       "percent": 67,
+				       "hz": "144hz"
+			       },
 		       ],
                        "name": "Arctic Lights",
                        "author": "Axinity",
@@ -200,13 +218,13 @@ const d = {
 				       "user": "Zupreme",
 				       "link": "https://www.youtube.com/watch?v=fg1X4DEIyMQ",
 				       "percent": 100,
-				       "hz": "240hz"
+				       "hz": "240hz/300fps"
 			       },
 			        {
 				       "user": "GDMeric",
 				       "link": "https://www.youtube.com/watch?v=xz3x_SdvcsY",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": "144hz/300fps"
 			       },
 		       ],
                        "name": "Zaphkiel",
@@ -259,6 +277,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+			       {
+				       "user": "GDMeric",
+				       "link": "https://www.youtube.com/watch?v=ntzwJbarIhQ&t=43s",
+				       "percent": 100,
+				       "hz": "144hz/300fps"
+			       },
 		       ],
                        "name": "Stalemate Redux",
                        "author": "Pablohh",
@@ -282,7 +306,7 @@ const d = {
 				       "user": "GDMeric",
 				       "link": "https://www.youtube.com/watch?v=GlHszXR_ZJA",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": "144hz/240fps"
 			       },
 		       ],
                        "name": "Catalyze",
@@ -338,7 +362,7 @@ const d = {
 				       "user": "GDMeric",
 				       "link": "https://www.youtube.com/watch?v=FSfFl8kWB8c&lc=Ugz-YLV2wkqnd1_YhqF4AaABAg",
 				       "percent": 72,
-				       "hz": "144hz"
+				       "hz": "144hz/288fps"
 			       },
 		       ],
                        "name": "Auditory Breaker",
@@ -396,6 +420,19 @@ const d = {
                        "key": 21
                 },
 		/*=================================================================================*/
+		{
+                       "vids": [
+		       ],
+                       "name": "Rate Demon",
+                       "author": "GDMeric",
+                       "more": "none",
+                       "id": 44860762,
+                       "pass": "Not Copyable",
+                       "percentToQualify": 100,
+                       "verificationVid": "https://www.youtube.com/watch?v=h5dh-HI4UJI",
+                       "key": 22
+                },
+		/*=================================================================================*/
                 {
                        "vids": [
 		       ],
@@ -406,7 +443,26 @@ const d = {
                        "pass": "Free To Copy",
                        "percentToQualify": 100,
                        "verificationVid": "https://youtu.be/Wbs-cumC0QQ",
-                       "key": 22
+                       "key": 23
+                },
+		/*=================================================================================*/
+		 {
+                       "vids": [
+			        {
+				       "user": "GDMeric",
+				       "link": "https://www.youtube.com/watch?v=rCUfkVTc4sM",
+				       "percent": 100,
+				       "hz": "144hz/300fps"
+			       },
+		       ],
+                       "name": "Carcano",
+                       "author": "Zupreme",
+                       "more": "none",
+                       "id": 64148732,
+                       "pass": "Free To Copy",
+                       "percentToQualify": 100,
+                       "verificationVid": "https://www.youtube.com/watch?v=Vpf9rhNkNdY",
+                       "key": 24
                 },
 		/*=================================================================================*/
 		{
@@ -425,7 +481,7 @@ const d = {
                        "pass": "000006",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=aLDLsjts8TU",
-                       "key": 23
+                       "key": 25
                 },
 		/*=================================================================================*/
 		{
@@ -438,7 +494,7 @@ const d = {
                        "pass": "Not Copyable",
                        "percentToQualify": 100,
                        "verificationVid": "https://youtu.be/fJUVFAKDtWc",
-                       "key": 24
+                       "key": 26
                 },
 		/*=================================================================================*/
                 {
@@ -457,7 +513,7 @@ const d = {
                        "pass": "251326",
                        "percentToQualify": 100,
                        "verificationVid": "https://youtu.be/0mlsc0hf9zc",
-                       "key": 25
+                       "key": 27
                 },
 		/*=================================================================================*/
 		{
@@ -470,7 +526,7 @@ const d = {
                        "pass": "271119",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=UGL3EyaKnik",
-                       "key": 26
+                       "key": 28
                 },
 		/*=================================================================================*/
 		{
@@ -483,7 +539,7 @@ const d = {
                        "pass": "Free To Copy",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=lSdlkKeiGqA",
-                       "key": 27
+                       "key": 29
                 },
 		/*=================================================================================*/
 		{
@@ -508,7 +564,7 @@ const d = {
                        "pass": "Free To Copy",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=18LKtXgqTXQ",
-                       "key": 28
+                       "key": 30
                 },
 		/*=================================================================================*/
 		{
@@ -521,7 +577,7 @@ const d = {
                        "pass": "666669",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=bxSad3Q4mZ0",
-                       "key": 29
+                       "key": 31
                 },
 		/*=================================================================================*/
 		{
@@ -534,7 +590,7 @@ const d = {
                        "pass": "423816",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=mmIBQ1SWyus",
-                       "key": 30
+                       "key": 32
                 },
 		/*=================================================================================*/
 		{
@@ -553,7 +609,7 @@ const d = {
                        "pass": "769874",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=Ey5-S7w9j7U",
-                       "key": 31
+                       "key": 33
                 },
 		/*=================================================================================*/
 		{
@@ -572,7 +628,7 @@ const d = {
                        "pass": "318008",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=r98MaYKNrOQ",
-                       "key": 32
+                       "key": 34
                 },
 		/*=================================================================================*/
 		{
@@ -591,7 +647,7 @@ const d = {
                        "pass": "895562",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=JUrhT5Z4rIg",
-                       "key": 33
+                       "key": 35
                 },
 		/*=================================================================================*/
 		{
@@ -616,7 +672,7 @@ const d = {
                        "pass": "Free To Copy",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=m5eh6_AKrGw",
-                       "key": 34
+                       "key": 36
                 },
 		/*=================================================================================*/
 		{
@@ -629,7 +685,7 @@ const d = {
                        "pass": "Free To Copy",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=3YEzvbDNc4s",
-                       "key": 35
+                       "key": 37
                 },
 		/*=================================================================================*/
 		{
@@ -642,7 +698,7 @@ const d = {
                        "pass": "Not Copyable",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=fH5ljgH_nz0",
-                       "key": 36
+                       "key": 38
                 },
 		/*=================================================================================*/
 		{
@@ -655,11 +711,17 @@ const d = {
                        "pass": "Free To Copy",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=v9Bh0kDRO-k",
-                       "key": 37
+                       "key": 39
                 },
 		/*=================================================================================*/
 		{
                        "vids": [
+			        {
+				       "user": "iambiver",
+				       "link": "",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 			        {
 				       "user": "Zupreme",
 				       "link": "https://www.youtube.com/watch?v=X2F3akhtiJI",
@@ -670,7 +732,7 @@ const d = {
 				       "user": "GDMeric",
 				       "link": "https://www.youtube.com/watch?v=VjkqPYAmfIY",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": "144hz/240fps"
 			       },
 			        {
 				       "user": "GMD xeox",
@@ -692,7 +754,7 @@ const d = {
                        "pass": "Not Copyable",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=W12wIrf6iXA",
-                       "key": 38
+                       "key": 40
                 },
 		/*=================================================================================*/
 		{
@@ -711,7 +773,7 @@ const d = {
                        "pass": "251326",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=1sD8ERBYALY",
-                       "key": 39
+                       "key": 41
                 },
 		/*=================================================================================*/
 		{
@@ -724,7 +786,7 @@ const d = {
                        "pass": "071100",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=E2JdidkVZmY",
-                       "key": 40
+                       "key": 42
                 },
 		/*=================================================================================*/
 		{
@@ -737,7 +799,256 @@ const d = {
                        "pass": "002309",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=6K4gs0VZi-I",
-                       "key": 41
+                       "key": 43
+                },
+		/*=================================================================================*/
+		{
+                       "vids": [
+			        {
+				       "user": "iambiver",
+				       "link": "",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+			       {
+				       "user": "GDMeric",
+				       "link": "https://www.youtube.com/watch?v=g_HZINaRBA4",
+				       "percent": 100,
+				       "hz": "144hz/300fps"
+			       },
+			       {
+				       "user": "Axinity",
+				       "link": "https://www.youtube.com/watch?v=x7LLV9I1Vfo",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+		       ],
+                       "name": "Aftermath",
+                       "author": "PoweredByGarfield",
+                       "more": "none",
+                       "id": 25610878,
+                       "pass": "Free To Copy",
+                       "percentToQualify": 100,
+                       "verificationVid": "https://www.youtube.com/watch?v=3Gmz8pEfDsM",
+                       "key": 44
+                },
+		/*=================================================================================*/
+		{
+                       "vids": [
+			        {
+				       "user": "Hydro",
+				       "link": "",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+			        {
+				       "user": "GDMeric",
+				       "link": "https://youtu.be/A-Qp38rR04U",
+				       "percent": 100,
+				       "hz": "144hz/240fps"
+			       },
+			        {
+				       "user": "Elsig",
+				       "link": "",
+				       "percent": 100,
+				       "hz": ""
+			       },
+		       ],
+                       "name": "The Flawless",
+                       "author": "PoweredByGarfield",
+                       "more": "none",
+                       "id": 21280210,
+                       "pass": "Free To Copy",
+                       "percentToQualify": 100,
+                       "verificationVid": "https://www.youtube.com/watch?v=SljsIhWxpNg",
+                       "key": 45
+                },
+		/*=================================================================================*/
+		{
+                       "vids": [
+			        {
+				       "user": "Mugge",
+				       "link": "",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+		       ],
+                       "name": "Polish Alphabet",
+                       "author": "GDMeric",
+                       "more": "none",
+                       "id": 48765988,
+                       "pass": "Free To Copy",
+                       "percentToQualify": 100,
+                       "verificationVid": "https://www.youtube.com/watch?v=aErdddRd2tc",
+                       "key": 46
+                },
+		/*=================================================================================*/
+		{
+                       "vids": [
+		       ],
+                       "name": "Night Party",
+                       "author": "iambiver",
+                       "more": "none",
+                       "id": 39242117,
+                       "pass": "111111",
+                       "percentToQualify": 100,
+                       "verificationVid": "",
+                       "key": 47
+                },
+		/*=================================================================================*/
+		{
+                       "vids": [
+			       {
+				       "user": "Elsig",
+				       "link": "",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+		       ],
+                       "name": "Hypersonic",
+                       "author": "BroomFS",
+                       "more": "none",
+                       "id": 48765988,
+                       "pass": "Free To Copy",
+                       "percentToQualify": 100,
+                       "verificationVid": "",
+                       "key": 48
+                },
+		/*=================================================================================*/
+		{
+                       "vids": [
+			        {
+				       "user": "GDMeric",
+				       "link": "https://www.youtube.com/watch?v=APL1BPA83-0&list=PLzRsTr4BTdEy35jvOtZS1zXJ9liEP7u5V&index=21",
+				       "percent": 100,
+				       "hz": "144hz/240fps"
+			       },
+			        {
+				       "user": "Elsig",
+				       "link": "",
+				       "percent": 100,
+				       "hz": "60hz"
+			       },
+			       {
+				       "user": "Sander",
+				       "link": "",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+			        {
+				       "user": "Obama",
+				       "link": "https://www.youtube.com/watch?v=xhxFKZPmWQE",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+		       ],
+                       "name": "Ice Carbon Diablo X",
+                       "author": "PoweredByGarfield",
+                       "more": "none",
+                       "id": 814678,
+                       "pass": "Not Copyable",
+                       "percentToQualify": 100,
+                       "verificationVid": "https://www.youtube.com/watch?v=v8uXNva_MkU",
+                       "key": 49
+                },
+		/*=================================================================================*/
+		{
+                       "vids": [
+			       {
+				       "user": "Pablohh",
+				       "link": "https://www.youtube.com/watch?v=8s274109Afk",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+			        {
+				       "user": "iambiver",
+				       "link": "",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+			        {
+				       "user": "Hydro",
+				       "link": "",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+			        {
+				       "user": "Axinity",
+				       "link": "https://www.youtube.com/watch?v=vwji4mgJXpM",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+			        {
+				       "user": "GDMeric",
+				       "link": "https://youtu.be/ONLroQaW4Bs",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+			        {
+				       "user": "Elsig",
+				       "link": "",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+		       ],
+                       "name": "Cataclysm",
+                       "author": "PoweredByGarfield",
+                       "more": "none",
+                       "id": 3979721,
+                       "pass": "666777",
+                       "percentToQualify": 100,
+                       "verificationVid": "https://www.youtube.com/watch?v=I7-Z4kx9KSc",
+                       "key": 50
+                },
+		/*=================================================================================*/
+		{
+                       "vids": [
+			        {
+				       "user": "SpeedyWithS",
+				       "link": "",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+			       {
+				       "user": "Sander",
+				       "link": "https://www.youtube.com/watch?v=ulS74RxNRUg",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+			         {
+				       "user": "Mugge",
+				       "link": "",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+		       ],
+                       "name": "Acu",
+                       "author": "GDMeric",
+                       "more": "none",
+                       "id": 61079355,
+                       "pass": "Free To Copy",
+                       "percentToQualify": 100,
+                       "verificationVid": "https://www.youtube.com/watch?v=gFe9jexSgPY",
+                       "key": 51
+                },
+		/*=================================================================================*/
+		{
+                       "vids": [
+			        {
+				       "user": "SpeedyWithS",
+				       "link": "",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+		       ],
+                       "name": "Thanatophobia",
+                       "author": "Tobulein",
+                       "more": "none",
+                       "id": 62809982,
+                       "pass": "Free To Copy",
+                       "percentToQualify": 100,
+                       "verificationVid": "https://www.youtube.com/watch?v=C31xiSbrghk&feature=youtu.be",
+                       "key": 52
                 },
 		/*=================================================================================*/
 

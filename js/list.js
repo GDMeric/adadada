@@ -988,6 +988,32 @@ const d = {
 		{
                        "vids": [
 		       ],
+                       "name": "Sky Tech",
+                       "author": "GMD xeox",
+                       "more": "none",
+                       "id": 38047229,
+                       "pass": "121212",
+                       "percentToQualify": 100,
+                       "verificationVid": "",
+                       "key": 53
+                },
+		/*=================================================================================*/",
+		{
+                       "vids": [
+		       ],
+                       "name": "Awakening Horus",
+                       "author": "GMD xeox",
+                       "more": "none",
+                       "id": 39458641,
+                       "pass": "789456",
+                       "percentToQualify": 100,
+                       "verificationVid": "https://www.youtube.com/watch?v=FdIIu3ht8RM",
+                       "key": 54
+                },
+		/*=================================================================================*/
+		{
+                       "vids": [
+		       ],
                        "name": "Allegiance",
                        "author": "GMD xeox",
                        "more": "none",
@@ -995,7 +1021,7 @@ const d = {
                        "pass": "Free To Copy",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=10rGXqfEoq4",
-                       "key": 53
+                       "key": 55
                 },
 		/*=================================================================================*/
 		{
@@ -1008,7 +1034,7 @@ const d = {
                        "pass": "111111",
                        "percentToQualify": 100,
                        "verificationVid": "",
-                       "key": 54
+                       "key": 56
                 },
 		/*=================================================================================*/
 		{
@@ -1027,7 +1053,7 @@ const d = {
                        "pass": "Free To Copy",
                        "percentToQualify": 100,
                        "verificationVid": "",
-                       "key": 55
+                       "key": 57
                 },
 		/*=================================================================================*/
 		{
@@ -1040,7 +1066,7 @@ const d = {
                        "pass": "Not Copyable",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=Pj-Qc-Rz2A8",
-                       "key": 56
+                       "key": 58
                 },
 		/*=================================================================================*/
 		{
@@ -1089,7 +1115,7 @@ const d = {
                        "pass": "Not Copyable",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=v8uXNva_MkU",
-                       "key": 57
+                       "key": 59
                 },
 		/*=================================================================================*/
 		{
@@ -1136,6 +1162,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+			        {
+				       "user": "GMD xeox",
+				       "link": "https://www.youtube.com/watch?v=IFydxRUWkG8",
+				       "percent": 100,
+				       "hz": "144hz/142fps"
+			       },
 		       ],
                        "name": "Cataclysm",
                        "author": "PoweredByGarfield",
@@ -1144,7 +1176,7 @@ const d = {
                        "pass": "666777",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=I7-Z4kx9KSc",
-                       "key": 58
+                       "key": 60
                 },
 		/*=================================================================================*/
 		{
@@ -1181,7 +1213,7 @@ const d = {
                        "pass": "Free To Copy",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=gFe9jexSgPY",
-                       "key": 59
+                       "key": 61
                 },
 		/*=================================================================================*/
 		{
@@ -1206,7 +1238,7 @@ const d = {
                        "pass": "Free To Copy",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=C31xiSbrghk&feature=youtu.be",
-                       "key": 60
+                       "key": 62
                 },
 		/*=================================================================================*/
 		{
@@ -1219,7 +1251,7 @@ const d = {
                        "pass": "Free To Copy",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=F4oukwlSp5Y",
-                       "key": 61
+                       "key": 63
                 },
 		/*=================================================================================*/
 		{
@@ -1232,7 +1264,7 @@ const d = {
                        "pass": "867354",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=UmsC9fpmtAY&t=4s",
-                       "key": 62
+                       "key": 64
                 },
 		/*=================================================================================*/
 

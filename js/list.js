@@ -851,7 +851,13 @@ const d = {
 				       "user": "Elsig",
 				       "link": "",
 				       "percent": 100,
-				       "hz": ""
+				       "hz": "144hz"
+			       },
+			        {
+				       "user": "Mugge",
+				       "link": "https://www.youtube.com/watch?v=C3977ZzgnR0",
+				       "percent": 100,
+				       "hz": "144hz"
 			       },
 		       ],
                        "name": "The Flawless",
@@ -939,7 +945,13 @@ const d = {
 				       "user": "Obama",
 				       "link": "https://www.youtube.com/watch?v=xhxFKZPmWQE",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": "240hz"
+			       },
+			       {
+				       "user": "Farlig",
+				       "link": "https://www.youtube.com/watch?v=KPDF4s1IIrA",
+				       "percent": 100,
+				       "hz": "144hz/288fps"
 			       },
 		       ],
                        "name": "Ice Carbon Diablo X",
@@ -987,6 +999,12 @@ const d = {
 			        {
 				       "user": "Elsig",
 				       "link": "",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+			         {
+				       "user": "Mugge",
+				       "link": "https://www.youtube.com/watch?v=1lv9pduL1Yo",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },

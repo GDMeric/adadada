@@ -505,6 +505,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+			       {
+				       "user": "GDMeric",
+				       "link": "https://www.youtube.com/watch?v=CN4qWtEYp9w&list=PLzRsTr4BTdEy35jvOtZS1zXJ9liEP7u5V&index=4",
+				       "percent": 100,
+				       "hz": "144hz/288fps"
+			       },
 		       ],
                        "name": "Hyper Paradox",
                        "author": "S1l3n",
@@ -804,6 +810,19 @@ const d = {
 		/*=================================================================================*/
 		{
                        "vids": [
+		       ],
+                       "name": "Wavebreaker",
+                       "author": "GDMeric",
+                       "more": "none",
+                       "id": 56779294,
+                       "pass": "040400",
+                       "percentToQualify": 100,
+                       "verificationVid": "https://www.youtube.com/watch?v=4JJFnroxnTA&list=PLzRsTr4BTdEy35jvOtZS1zXJ9liEP7u5V&index=13",
+                       "key": 44
+                },
+		/*=================================================================================*/
+		{
+                       "vids": [
 			        {
 				       "user": "iambiver",
 				       "link": "",
@@ -830,7 +849,20 @@ const d = {
                        "pass": "Free To Copy",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=3Gmz8pEfDsM",
-                       "key": 44
+                       "key": 45
+                },
+		/*=================================================================================*/
+		{
+                       "vids": [
+		       ],
+                       "name": "Skrrah",
+                       "author": "GDMeric",
+                       "more": "none",
+                       "id": 46510793,
+                       "pass": "006660",
+                       "percentToQualify": 100,
+                       "verificationVid": "https://www.youtube.com/watch?v=jTANu5HiJ8k&list=PLzRsTr4BTdEy35jvOtZS1zXJ9liEP7u5V&index=18",
+                       "key": 46
                 },
 		/*=================================================================================*/
 		{
@@ -867,7 +899,7 @@ const d = {
                        "pass": "Free To Copy",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=SljsIhWxpNg",
-                       "key": 45
+                       "key": 47
                 },
 		/*=================================================================================*/
 		{
@@ -886,7 +918,7 @@ const d = {
                        "pass": "Free To Copy",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=aErdddRd2tc",
-                       "key": 46
+                       "key": 48
                 },
 		/*=================================================================================*/
 		{
@@ -899,7 +931,7 @@ const d = {
                        "pass": "111111",
                        "percentToQualify": 100,
                        "verificationVid": "",
-                       "key": 47
+                       "key": 49
                 },
 		/*=================================================================================*/
 		{
@@ -918,7 +950,7 @@ const d = {
                        "pass": "Free To Copy",
                        "percentToQualify": 100,
                        "verificationVid": "",
-                       "key": 48
+                       "key": 50
                 },
 		/*=================================================================================*/
 		{
@@ -961,7 +993,7 @@ const d = {
                        "pass": "Not Copyable",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=v8uXNva_MkU",
-                       "key": 49
+                       "key": 51
                 },
 		/*=================================================================================*/
 		{
@@ -1016,7 +1048,7 @@ const d = {
                        "pass": "666777",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=I7-Z4kx9KSc",
-                       "key": 50
+                       "key": 52
                 },
 		/*=================================================================================*/
 		{
@@ -1047,7 +1079,7 @@ const d = {
                        "pass": "Free To Copy",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=gFe9jexSgPY",
-                       "key": 51
+                       "key": 53
                 },
 		/*=================================================================================*/
 		{
@@ -1066,7 +1098,20 @@ const d = {
                        "pass": "Free To Copy",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=C31xiSbrghk&feature=youtu.be",
-                       "key": 52
+                       "key": 54
+                },
+		/*=================================================================================*/
+		{
+                       "vids": [
+		       ],
+                       "name": "Gunslinga Corridor",
+                       "author": "GDMeric",
+                       "more": "none",
+                       "id": 58069223,
+                       "pass": "867354",
+                       "percentToQualify": 100,
+                       "verificationVid": "https://www.youtube.com/watch?v=UmsC9fpmtAY&list=PLzRsTr4BTdEy35jvOtZS1zXJ9liEP7u5V&index=6",
+                       "key": 55
                 },
 		/*=================================================================================*/
 

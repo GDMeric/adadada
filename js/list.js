@@ -874,6 +874,19 @@ const d = {
 		{
                        "vids": [
 		       ],
+                       "name": "Plasma Pulse III",
+                       "author": "GMD xeox",
+                       "more": "none",
+                       "id": 20159880,
+                       "pass": "250516",
+                       "percentToQualify": 100,
+                       "verificationVid": "https://www.youtube.com/watch?v=CiM8mLHas3A",
+                       "key": 47
+                },
+		/*=================================================================================*/
+		{
+                       "vids": [
+		       ],
                        "name": "A2Marbl",
                        "author": "GMD xeox",
                        "more": "none",
@@ -881,7 +894,20 @@ const d = {
                        "pass": "Free To Copy",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=iZocD-oveEk",
-                       "key": 47
+                       "key": 48
+                },
+		/*=================================================================================*/
+		{
+                       "vids": [
+		       ],
+                       "name": "Deception Dive",
+                       "author": "GMD xeox",
+                       "more": "none",
+                       "id": 34379100,
+                       "pass": "635897",
+                       "percentToQualify": 100,
+                       "verificationVid": "https://www.youtube.com/watch?v=uQHC3EJUUls",
+                       "key": 49
                 },
 		/*=================================================================================*/
 		{
@@ -894,7 +920,7 @@ const d = {
                        "pass": "006660",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=jTANu5HiJ8k&list=PLzRsTr4BTdEy35jvOtZS1zXJ9liEP7u5V&index=18",
-                       "key": 48
+                       "key": 50
                 },
 		/*=================================================================================*/
 		{
@@ -923,6 +949,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+			       {
+				       "user": "GMD xeox",
+				       "link": "https://www.youtube.com/watch?v=2Hr209ggBHA",
+				       "percent": 100,
+				       "hz": "144hz/300fps"
+			       },
 		       ],
                        "name": "The Flawless",
                        "author": "PoweredByGarfield",
@@ -931,7 +963,7 @@ const d = {
                        "pass": "Free To Copy",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=SljsIhWxpNg",
-                       "key": 49
+                       "key": 51
                 },
 		/*=================================================================================*/
 		{
@@ -950,7 +982,20 @@ const d = {
                        "pass": "Free To Copy",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=aErdddRd2tc",
-                       "key": 50
+                       "key": 52
+                },
+		/*=================================================================================*/
+		{
+                       "vids": [
+		       ],
+                       "name": "Allegiance",
+                       "author": "GMD xeox",
+                       "more": "none",
+                       "id": 20761188,
+                       "pass": "Free To Copy",
+                       "percentToQualify": 100,
+                       "verificationVid": "https://www.youtube.com/watch?v=10rGXqfEoq4",
+                       "key": 53
                 },
 		/*=================================================================================*/
 		{
@@ -963,7 +1008,7 @@ const d = {
                        "pass": "111111",
                        "percentToQualify": 100,
                        "verificationVid": "",
-                       "key": 51
+                       "key": 54
                 },
 		/*=================================================================================*/
 		{
@@ -982,7 +1027,20 @@ const d = {
                        "pass": "Free To Copy",
                        "percentToQualify": 100,
                        "verificationVid": "",
-                       "key": 52
+                       "key": 55
+                },
+		/*=================================================================================*/
+		{
+                       "vids": [
+		       ],
+                       "name": "The Ultimate Phase (old)",
+                       "author": "GMD xeox",
+                       "more": "none",
+                       "id": 7174110,
+                       "pass": "Not Copyable",
+                       "percentToQualify": 100,
+                       "verificationVid": "https://www.youtube.com/watch?v=Pj-Qc-Rz2A8",
+                       "key": 56
                 },
 		/*=================================================================================*/
 		{
@@ -1017,6 +1075,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz/288fps"
 			       },
+			        {
+				       "user": "GMD xeox",
+				       "link": "https://www.youtube.com/watch?v=YVe9BnsM4iI",
+				       "percent": 100,
+				       "hz": "144hz/300fps"
+			       },
 		       ],
                        "name": "Ice Carbon Diablo X",
                        "author": "PoweredByGarfield",
@@ -1025,7 +1089,7 @@ const d = {
                        "pass": "Not Copyable",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=v8uXNva_MkU",
-                       "key": 53
+                       "key": 57
                 },
 		/*=================================================================================*/
 		{
@@ -1080,7 +1144,7 @@ const d = {
                        "pass": "666777",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=I7-Z4kx9KSc",
-                       "key": 54
+                       "key": 58
                 },
 		/*=================================================================================*/
 		{
@@ -1103,6 +1167,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+			       {
+				       "user": "GMD xeox",
+				       "link": "https://www.youtube.com/watch?v=5K4BNgPMhE0",
+				       "percent": 100,
+				       "hz": "144hz/237fps"
+			       },
 		       ],
                        "name": "Acu",
                        "author": "GDMeric",
@@ -1111,7 +1181,7 @@ const d = {
                        "pass": "Free To Copy",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=gFe9jexSgPY",
-                       "key": 55
+                       "key": 59
                 },
 		/*=================================================================================*/
 		{
@@ -1122,6 +1192,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+			       {
+				       "user": "GMD xeox",
+				       "link": "https://www.youtube.com/watch?v=vGUCVKqgTCU",
+				       "percent": 100,
+				       "hz": "144hz/300fps"
+			       },
 		       ],
                        "name": "Thanatophobia",
                        "author": "Tobulein",
@@ -1130,7 +1206,20 @@ const d = {
                        "pass": "Free To Copy",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=C31xiSbrghk&feature=youtu.be",
-                       "key": 56
+                       "key": 60
+                },
+		/*=================================================================================*/
+		{
+                       "vids": [
+		       ],
+                       "name": "Tantrum",
+                       "author": "GMD xeox",
+                       "more": "none",
+                       "id": 61910810,
+                       "pass": "Free To Copy",
+                       "percentToQualify": 100,
+                       "verificationVid": "https://www.youtube.com/watch?v=F4oukwlSp5Y",
+                       "key": 61
                 },
 		/*=================================================================================*/
 		{
@@ -1142,8 +1231,8 @@ const d = {
                        "id": 58069223,
                        "pass": "867354",
                        "percentToQualify": 100,
-                       "verificationVid": "https://www.youtube.com/watch?v=UmsC9fpmtAY&list=PLzRsTr4BTdEy35jvOtZS1zXJ9liEP7u5V&index=6",
-                       "key": 57
+                       "verificationVid": "https://www.youtube.com/watch?v=UmsC9fpmtAY&t=4s",
+                       "key": 62
                 },
 		/*=================================================================================*/
 

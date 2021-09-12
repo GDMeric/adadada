@@ -169,7 +169,7 @@ const d = {
 				       "hz": "144hz"
 			       },
 			        {
-				       "user": "GMD xeox
+				       "user": "GMD xeox",
 				       "link": "https://www.youtube.com/watch?v=4ErLEjkqzYQ",
 				       "percent": 100,
 				       "hz": "144hz/360fps

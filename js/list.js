@@ -455,7 +455,7 @@ const d = {
 		{
                        "vids": [
 		       ],
-                       "name": "Titan Complex
+                       "name": "Titan Complex",
                        "author": "GMD xeox",
                        "more": "none",
                        "id": 44022701,

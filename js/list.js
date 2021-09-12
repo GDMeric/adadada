@@ -172,7 +172,7 @@ const d = {
 				       "user": "GMD xeox",
 				       "link": "https://www.youtube.com/watch?v=4ErLEjkqzYQ",
 				       "percent": 100,
-				       "hz": "144hz/360fps
+				       "hz": "144hz/360fps"
 			       },
 		       ],
                        "name": "Aquatic Auroras",

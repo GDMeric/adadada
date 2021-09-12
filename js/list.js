@@ -1775,11 +1775,11 @@ const d = {
 		{
                        "vids": [
 		       ],
-                       "name": "Azurite
-                       "author": "GMD xeox
+                       "name": "Azurite",
+                       "author": "GMD xeox",
                        "more": "none",
                        "id": 62214792,
-                       "pass": "Free To Copy
+                       "pass": "Free To Copy",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=y2V6ocO9yMA",
                        "key": 90
